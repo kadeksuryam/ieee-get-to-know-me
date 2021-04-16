@@ -1,0 +1,26 @@
+.footer-container{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+}
+
+.about{
+    color: white;
+    padding: 1rem;
+}
+
+.social-media{
+    display: flex;
+    list-style: none;
+}
+
+.sm-items{
+    padding: 0.5rem 1rem;
+}
+
+.sm-links{
+    text-decoration: none;
+    color: white;
+}

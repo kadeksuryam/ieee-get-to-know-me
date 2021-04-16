@@ -1,0 +1,13 @@
+.home-container{
+    padding: 4rem;
+    margin: 10% 10%;
+    background-color: white;
+    height: 50vh;
+    border-radius: 2rem;   
+    
+}
+
+.home-content{
+    color : black;
+    font-size: 1.5rem;
+}
