@@ -1,5 +1,4 @@
 import React from 'react'
-import {Link} from 'react-router-dom';
 import './footer.css'
 
 const Footer = () => {
@@ -10,8 +9,8 @@ const Footer = () => {
             </div>
             
             <ul className='social-media'>
-                <li className='sm-items'><Link className='sm-links' to="/">LinkedIn</Link></li>
-                <li className='sm-items'><Link className='sm-links' to="/">Instagram</Link></li>
+                <li className='sm-items'><a className='sm-links' href="https://www.linkedin.com/in/kadeksuryam/" target="_blank" rel="noreferrer" >LinkedIn</a></li>
+                <li className='sm-items'><a className='sm-links' href="https://www.instagram.com/suryam1729/" target="_blank" rel="noreferrer" >Instagram</a></li>
             </ul>
         </div>
     )

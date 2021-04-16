@@ -3,10 +3,13 @@
 }
 
 .title{
+    
     font-weight: bold;
     font-size: 3rem;
     text-align: center;
     border-bottom: dashed 2px #CCCCCC;
     padding-bottom: 10px;
     margin-bottom: 40px;
+    text-shadow: 1px 1px 1px red,
+    2px 2px 1px red;
 }
