@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ieee-get-to-know-me/static/css/main.8104879d.chunk.css",
-    "main.js": "/ieee-get-to-know-me/static/js/main.bb98298b.chunk.js",
-    "main.js.map": "/ieee-get-to-know-me/static/js/main.bb98298b.chunk.js.map",
+    "main.js": "/ieee-get-to-know-me/static/js/main.69ee25d0.chunk.js",
+    "main.js.map": "/ieee-get-to-know-me/static/js/main.69ee25d0.chunk.js.map",
     "runtime-main.js": "/ieee-get-to-know-me/static/js/runtime-main.a5f111e3.js",
     "runtime-main.js.map": "/ieee-get-to-know-me/static/js/runtime-main.a5f111e3.js.map",
     "static/js/2.b67f002c.chunk.js": "/ieee-get-to-know-me/static/js/2.b67f002c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a5f111e3.js",
     "static/js/2.b67f002c.chunk.js",
     "static/css/main.8104879d.chunk.css",
-    "static/js/main.bb98298b.chunk.js"
+    "static/js/main.69ee25d0.chunk.js"
   ]
 }
