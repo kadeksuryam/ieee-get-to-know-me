@@ -11,7 +11,7 @@ import './app.css'
 const App = () => {
   return(
     <div className="main">
-      <Router>
+      <Router basename="/ieee-get-to-know-me">
         <Navbar/>
         <Switch>
           <Route path='/about'>
