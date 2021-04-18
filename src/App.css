@@ -1,9 +1,8 @@
 .main{
-    background-image: url('https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('/src/components/assets/background-img.jpeg');
 }
 
 .title{
-    
     font-weight: bold;
     font-size: 3rem;
     text-align: center;
@@ -12,4 +11,11 @@
     margin-bottom: 40px;
     text-shadow: 1px 1px 1px red,
     2px 2px 1px red;
+}
+
+
+.content{
+    color : black;
+    font-size: 1.5rem;
+    font-family: arial,sans-serif;
 }

@@ -1,5 +1,6 @@
 import React from 'react'
 import './footer.css'
+import {FaInstagram, FaLinkedinIn} from 'react-icons/fa'
 
 const Footer = () => {
     return(
@@ -9,8 +10,8 @@ const Footer = () => {
             </div>
             
             <ul className='social-media'>
-                <li className='sm-items'><a className='sm-links' href="https://www.linkedin.com/in/kadeksuryam/" target="_blank" rel="noreferrer" >LinkedIn</a></li>
-                <li className='sm-items'><a className='sm-links' href="https://www.instagram.com/suryam1729/" target="_blank" rel="noreferrer" >Instagram</a></li>
+                <li className='sm-items'><a className='sm-links' href="https://www.linkedin.com/in/kadeksuryam/" target="_blank" rel="noreferrer" ><FaLinkedinIn/></a></li>
+                <li className='sm-items'><a className='sm-links' href="https://www.instagram.com/suryam1729/" target="_blank" rel="noreferrer" ><FaInstagram/></a></li>
             </ul>
         </div>
     )
